@@ -1,8 +1,15 @@
-# Welcome to your CDK TypeScript project!
+# Proof of concept: Connecting to a Fargate Instance Using SSM & KMS keys. Deploying using AWS CDK.
 
-This is a blank project for TypeScript development with CDK.
+This is just a proof of concept, obviously no production ready.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## Usage
+
+`cdk deploy`
+
+## References
+
+- https://gist.github.com/andrewodri/1403c0e28503051e26b24428f1ae49b9
+
 
 ## Useful commands
 
